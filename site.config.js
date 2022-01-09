@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'CenjaのBlog',
-  domain: 'cenja.net',
+  domain: 'https://www.notion.so/01b5b63ebb3e46698c9d991e2151e856?v=f1f2b2f95977489e882a56de937901dd',
   author: 'Cenja Chen',
 
   // open graph metadata (optional)
