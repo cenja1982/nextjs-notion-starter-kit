@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'f1f2b2f95977489e882a56de937901dd',
+  rootNotionPageId: '12f971af6e1d470dad92c35637abf536',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'CenjaのBlog',
-  domain: 'https://www.notion.so/01b5b63ebb3e46698c9d991e2151e856?v=f1f2b2f95977489e882a56de937901dd',
+  domain: 'https://www.notion.so/cenja/Cenja-Blog-12f971af6e1d470dad92c35637abf536',
   author: 'Cenja Chen',
 
   // open graph metadata (optional)
